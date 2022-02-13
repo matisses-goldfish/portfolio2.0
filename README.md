@@ -34,17 +34,18 @@ My main goal of this project is to create a website that highlights my tallents 
 
 ## Wireframe: 
 ---
-![Screenshot of Webframe 1](./assets/images/webframe-1.png)
+![Screenshot of Webframe 1](./assets/images/wf1.png)
+![Screenshot of Webframe 2](./assets/images/wf3.png)
 
-![Screenshot of Webframe 2](./assets/images/webframe-2.png)
 
-![Screenshot of Webframe 3](./assets/images/webframe-3.png)
-
-![Screenshot of Webframe 4](./assets/images/webframe-4.png)
-
+---
 
 ## Figma Design:
 ---
-![Insporation Board and Figma Concept](./assets/images/figma-portfolio.png)
+![Insporation Board and Figma Concept](./assets/images/whitess.png)
+![Insporation Board and Figma Concept](./assets/images/pinkss.png)
+![Insporation Board and Figma Concept](./assets/images/orangess.png)
+![Insporation Board and Figma Concept](./assets/images/bluess.png)
+
 
 
