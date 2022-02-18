@@ -138,6 +138,8 @@ li a {
 }
 
 #homeTxt{
+    white-space: nowrap;
+    
     padding: 0px;
     font-family: Roboto;
     font-style: normal;
@@ -264,8 +266,10 @@ border: none;
 }
 
 #aboutImg{
+    margin-top: 6%;
     width: 470px;
     height: 470px;
+    border-radius: 50%;
 }
 
 /* contact */
@@ -319,7 +323,7 @@ a:hover{
     
     margin: 2%;
     width: 642px;
-    height: 200px;
+    height: 148px;
 
     border: 6px solid #1D4379;
     box-sizing: border-box;
